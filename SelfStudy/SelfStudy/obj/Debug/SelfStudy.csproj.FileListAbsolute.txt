@@ -1,0 +1,7 @@
+C:\Users\sujina.mohanarajan\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.csproj.AssemblyReference.cache
+C:\Users\sujina.mohanarajan\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.csproj.CoreCompileInputs.cache
+C:\Users\sujina.mohanarajan\source\repos\SelfStudy\SelfStudy\bin\Debug\SelfStudy.exe.config
+C:\Users\sujina.mohanarajan\source\repos\SelfStudy\SelfStudy\bin\Debug\SelfStudy.exe
+C:\Users\sujina.mohanarajan\source\repos\SelfStudy\SelfStudy\bin\Debug\SelfStudy.pdb
+C:\Users\sujina.mohanarajan\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.exe
+C:\Users\sujina.mohanarajan\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.pdb
